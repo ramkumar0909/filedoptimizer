@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{160:function(e,i,t){"use strict";t.r(i);var a=t(0),l=t.n(a),n=t(161),c=t(164);i.default=function(){return l.a.createElement(n.a,null,l.a.createElement(c.a,{title:"DOptimizer",keywords:["Duplicate file finder","Duplicate file archive","duplicate file delete","duplicate file optimizer"]}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-f05a479ea3da80d03590.js.map
